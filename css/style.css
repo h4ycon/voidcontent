@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(24,26,27);
+    color: rgb(209,205,199);
+}
+
+
+
+p {
+    font-size: 1.2em;
+}
+
+.jumbotron{
+    background-color: rgb(35,38,39);
+}
+
+#title{
+    margin: 0 auto;
+    width: 300px;
+}
+
+#buymecoffee{
+    width: 300px;
+    height: 300px;
+}
+
+#containerAbout{
+    margin-top: 3%;
+}
+
+#content {
+    margin: 0 auto;
+    height: 100%;
+}
+
+#row2 {
+    margin-top: 2%;
+}
+
+#jumbo{
+    padding-left: 10%;
+}
+
+#particlePic{
+    float: right;
+}
+
+#tmp1{
+    margin-top: 3%;
+}
+
+#frontPageImage{
+    border-radius: 10%;
+}
+
+#frontNav{
+    margin: 0;
+}
+
+.postImages{
+    width: 850px;
+    height: 700px;
+}
